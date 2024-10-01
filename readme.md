@@ -10,8 +10,14 @@ The advantages of using RTK Query for caching, background updates, and simplifie
 How to manage loading states, handle errors, and implement pagination.
 
 
+
 Why RTK Query?
 If you're looking to streamline your API management in React apps, RTK Query offers a declarative, easy-to-use solution for working with remote data. Say goodbye to boilerplate code and get ready for efficient and clean state management!
+
+Here watch video:
+https://youtu.be/rcQblMShXz0
+
+
 
 
 
